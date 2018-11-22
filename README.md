@@ -7,12 +7,9 @@
 <img src="http://img.shields.io/badge/license-APACHE%202.0-blue.svg?style=flat" alt="License: APACHE 2.0" />
 </p>
 
-<p style="text-align: center">
-	<img src="./Screenshots/screen01.png" width="200" style="float: left"><br />
-	<img src="./Screenshots/screen02.png" width="350" style="float: left">
+<p float="left">
+	<img src="./Screenshots/screen02.png" width="250">
 </p>
-
-
 
 This library includes a chart to display accumulated orders in a high-customazible, interactive and Auto Layout capable way.
 
